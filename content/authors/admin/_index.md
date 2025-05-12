@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吴子轩
+title: 吴 子 轩
 
 # Name pronunciation (optional)
 name_pronunciation: Zixuan Wu
