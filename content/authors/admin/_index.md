@@ -71,7 +71,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc
+  - area: BSc, Control Science and Engineering
     institution: Harbin Institute of Technology
     date_start: 2015-09-01
     date_end: 2019-06-15
@@ -98,22 +98,27 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 80
+        icon: code-bracket
+      - name: ROS
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 60
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 50
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: 📔
       - name: Cats
         description: ''
         percent: 100
