@@ -1,19 +1,7 @@
-/* Increase content width */
-.container {
-  max-width: 900px;  // Adjust line length
-}
-
-/* Resize profile picture */
-.profile-img {
-  width: 150px;
-  height: auto;
-  border-radius: 50%;
-}
-
 .avatar {
   width: 120px !important;
-  height: 120px !important;    
-  border-radius: 10px; // override 'rounded-full'
-  padding: 0;        // remove padding from 'p-1'
-  background-color: transparent; // remove bg-white if needed
+  height: auto !important;
+  padding: 0 !important;
+  border-radius: 10px !important;
+  background-color: transparent !important;
 }
