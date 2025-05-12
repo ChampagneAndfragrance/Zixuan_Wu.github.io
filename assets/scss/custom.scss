@@ -9,3 +9,11 @@
   height: auto;
   border-radius: 50%;
 }
+
+.avatar {
+  width: 120px;      // override width
+  height: auto;      // scale height automatically
+  border-radius: 10px; // override 'rounded-full'
+  padding: 0;        // remove padding from 'p-1'
+  background-color: transparent; // remove bg-white if needed
+}
