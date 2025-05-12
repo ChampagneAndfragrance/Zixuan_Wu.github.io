@@ -118,7 +118,7 @@ skills:
       - name: Reading
         description: ''
         percent: 60
-        icon: 📔
+        icon: :notebook_with_decorative_cover:
       - name: Cats
         description: ''
         percent: 100
