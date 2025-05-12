@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zixuan Wu (吴子轩)
+title: Zixuan Wu (吴 子 轩)
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -20,36 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Georgia Institute of Technology (GT)
+    url: https://www.gatech.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'wuzixuan9258@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/longislandrock?s=21
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/zixuan_wu_0.o?igsh=dGJyY2JiNnI0OXhv&utm_source=qr
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ChampagneAndfragrance
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zixuan-w-3b81a0152?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=bTHVAMQAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8742-4986
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robot Navigation
+  - Motion Planning
+  - Generative Model
 
 education:
   - area: PhD Artificial Intelligence
