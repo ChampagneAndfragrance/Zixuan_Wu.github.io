@@ -1,0 +1,11 @@
+/* Increase content width */
+.container {
+  max-width: 900px;  // Adjust line length
+}
+
+/* Resize profile picture */
+.profile-img {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+}
