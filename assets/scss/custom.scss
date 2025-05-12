@@ -11,8 +11,8 @@
 }
 
 .avatar {
-  width: 120px;      // override width
-  height: auto;      // scale height automatically
+  width: 120px !important;
+  height: 120px !important;    
   border-radius: 10px; // override 'rounded-full'
   padding: 0;        // remove padding from 'p-1'
   background-color: transparent; // remove bg-white if needed
