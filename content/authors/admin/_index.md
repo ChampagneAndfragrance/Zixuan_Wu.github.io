@@ -53,7 +53,7 @@ interests:
   - Multi-agent Systems
 
 education:
-  - area: Ph.D., ECE
+  - area: Ph.D., Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     date_start: 2021-01-01
     date_end: 2026-08-15
@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S., ECE
+  - area: M.S., Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     date_start: 2019-08-15
     date_end: 2021-05-15
@@ -71,7 +71,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc, Control Science and Engineering
+  - area: BSc
     institution: Harbin Institute of Technology
     date_start: 2015-09-01
     date_end: 2019-06-15
@@ -80,7 +80,7 @@ education:
       
 work:
   - position: Research Intern
-    company_name: GenCoin
+    company_name: Bosch
     company_url: 'https://www.bosch.com/'
     company_logo: ''
     date_start: 2025-05-27
