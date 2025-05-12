@@ -56,7 +56,7 @@ education:
   - area: Ph.D., Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     date_start: 2021-01-01
-    date_end: 2026-12-31 (est)
+    date_end: 2026-08-15
     summary: |
       Thesis on _Model-assisted RL and IL in Multi-agent Systems_. Supervised by [Prof Matthew Gombolay](https://www.cc.gatech.edu/people/matthew-gombolay).
     button:
