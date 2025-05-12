@@ -53,7 +53,7 @@ interests:
   - Multi-agent Systems
 
 education:
-  - area: Ph.D., Electrical and Computer Engineering
+  - area: Ph.D., ECE
     institution: Georgia Institute of Technology
     date_start: 2021-01-01
     date_end: 2026-08-15
@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S., Electrical and Computer Engineering
+  - area: M.S., ECE
     institution: Georgia Institute of Technology
     date_start: 2019-08-15
     date_end: 2021-05-15
@@ -79,28 +79,15 @@ education:
       Thesis on _An Investigation on IBVS and PBVS Control Techniques and Their Applications_. Supervised by [Prof Weiyang Lin](https://homepage.hit.edu.cn/linweiyang).
       
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Research Intern
     company_name: GenCoin
-    company_url: ''
+    company_url: 'https://www.bosch.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2025-05-27
+    date_end: 2025-08-15
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Scene Understanding and GenAI for AD
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
