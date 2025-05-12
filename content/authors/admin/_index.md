@@ -118,15 +118,19 @@ skills:
       - name: Reading
         description: ''
         percent: 60
-        icon: :notebook_with_decorative_cover:
-      - name: Cats
-        description: ''
-        percent: 100
         icon: cat
-      - name: Photography
+      - name: Swimming
+        description: ''
+        percent: 60
+        icon: swim
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera
+        icon: dog
+      - name: Cooking
+        description: ''
+        percent: 80
+        icon: cook
 
 languages:
   - name: English
