@@ -77,6 +77,7 @@ education:
     date_end: 2019-06-15
     summary: |
       Thesis on _An Investigation on IBVS and PBVS Control Techniques and Their Applications_. Supervised by [Prof Weiyang Lin](https://homepage.hit.edu.cn/linweiyang).
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
