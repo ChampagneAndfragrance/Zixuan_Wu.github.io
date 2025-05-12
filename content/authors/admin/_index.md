@@ -50,39 +50,33 @@ interests:
   - Robot Navigation
   - Motion Planning
   - Generative Model
+  - Multi-agent Systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D., Electrical and Computer Engineering
+    institution: Georgia Institute of Technology
+    date_start: 2021-01-01
+    date_end: 2026-12-31 (est)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Model-assisted RL and IL in Multi-agent Systems_. Supervised by [Prof Matthew Gombolay](https://www.cc.gatech.edu/people/matthew-gombolay).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S., Electrical and Computer Engineering
+    institution: Georgia Institute of Technology
+    date_start: 2019-08-15
+    date_end: 2021-05-15
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on _Trajectory Servoing: Image-Based Trajectory Tracking without Absolute Positioning_. Supervised by [Prof Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela).
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: BSc
+    institution: Harbin Institute of Technology
+    date_start: 2015-09-01
+    date_end: 2019-06-15
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _An Investigation on IBVS and PBVS Control Techniques and Their Applications_. Supervised by [Prof Weiyang Lin](https://homepage.hit.edu.cn/linweiyang).
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
