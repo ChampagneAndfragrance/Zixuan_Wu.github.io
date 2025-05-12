@@ -1,9 +1,9 @@
 ---
 # Display name
-title:
+title: Zixuan Wu (吴子轩)
 
 # Name pronunciation (optional)
-name_pronunciation: Zixuan Wu
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Zixuan
