@@ -70,11 +70,6 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
-
-
-
-
-
 ---
 title: "Diffusion-reinforcement learning hierarchical motion planning in adversarial multi-agent games"
 authors:
