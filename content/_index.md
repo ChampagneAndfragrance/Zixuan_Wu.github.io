@@ -28,8 +28,8 @@ sections:
           filters:
             brightness: 1.0
           size: cover
-          position: 0% 95%
-          parallax: false
+          position: 0% 85%
+          parallax: true
   - block: markdown
     content:
       title: '📚 My Research'
