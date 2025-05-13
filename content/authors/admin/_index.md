@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zixuan Wu (吴 子 轩)
+title: Zixuan Wu
 
 # Name pronunciation (optional)
 name_pronunciation:
