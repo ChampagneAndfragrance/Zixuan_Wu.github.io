@@ -1,0 +1,4 @@
+<img src="{{ .Params.image | default (.Params.avatar | default "avatar.jpg") | relURL }}"
+     alt="{{ .Params.title }}"
+     class="w-[120px] h-auto rounded-md p-0 bg-transparent"
+     width="120">
