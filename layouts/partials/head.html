@@ -1,4 +1,2 @@
-{{ partial "blox/headers/core" . }}
-
-<!-- Custom overrides -->
-<link rel="stylesheet" href="/css/custom.css">
+{{ $customCSS := resources.Get "css/custom.css" | minify }}
+<link rel="stylesheet" href="{{ $customCSS.RelPermalink }}">
