@@ -9,11 +9,6 @@ name_pronunciation:
 first_name: Zixuan
 last_name: Wu
 
-# Resize avatar
-avatar:
-  filename: image.jpg   # replace with your actual image filename if different
-  classes: "w-[120px] h-auto rounded-md p-0 bg-transparent"
-
 # Status emoji
 # status:
 #   icon: ☕️
