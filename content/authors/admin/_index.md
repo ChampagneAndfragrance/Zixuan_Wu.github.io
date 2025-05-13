@@ -15,8 +15,8 @@ avatar:
   classes: "w-[120px] h-auto rounded-md p-0 bg-transparent"
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
