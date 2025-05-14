@@ -33,7 +33,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://ieeexplore.ieee.org/abstract/document/9787773'
-url_video: 'https://youtu.be/BkNcFxnYUeA'
+url_video: '[https://www.youtube.com/watch?v=YourVideoID](https://youtu.be/BkNcFxnYUeA)'
 tags:
   - Visual Navigation, Visual Servo, Mobile Robot
 # Display this page in the Featured widget?
