@@ -25,6 +25,11 @@ abstract: Reinforcement Learning- (RL-)based motion planning has recently shown 
   guide the RL algorithm for more efficient exploration and improves the explanability
   and predictability.
 
+tags:
+  - Generative Models, Motion Planning, Multi-agent
+# Display this page in the Featured widget?
+featured: true
+
 url_pdf: 'https://arxiv.org/pdf/2403.10794'
 url_code: ''
 url_dataset: ''
