@@ -5,7 +5,7 @@ authors:
 - Qingyu Xiao
 - Zixuan Wu
 - Matthew Gombolay
-date: -01-01
+date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.984647Z'
 publication_types:
 - manuscript

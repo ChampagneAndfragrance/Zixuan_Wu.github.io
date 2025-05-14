@@ -5,7 +5,7 @@ authors:
 - Manisha Natarajan
 - Zixuan Wu
 - Matthew C Gombolay
-date: -01-01
+date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.949798Z'
 publication_types:
 - manuscript
