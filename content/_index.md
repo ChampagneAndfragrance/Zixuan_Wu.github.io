@@ -37,7 +37,7 @@ sections:
       text: |-
         I'm a Ph.D. candidate at [Electrical and Computer Engineering (ECE)](https://ece.gatech.edu/) in [Georgia Institute of Technology (GT)](https://www.gatech.edu/). Now I am doing my research about robotics and machine learning in [CORE robotics lab](https://core-robotics.gatech.edu/) supervised by [Prof. Matthew Gombolay](https://www.cc.gatech.edu/people/matthew-gombolay). The main research topic is to help the robot understand the environments, be aware of their relations to other agents and make decisions accordingly. Now I am using the self-built mobile robot platform [Experimental Sport Tennis Wheelchair Robot (ESTHER)](https://core-robotics-lab.github.io/Wheelchair-Tennis-Robot/) to conduct my research.
 
-        This website is mainly used to document my research experiences and partially used to show the slices of my life. Feel free to [contact me](zwu380@gatech.edu) if you would like to discuss research ideas or make friends.
+        This website is mainly used to document my research experiences and partially used to show the slices of my life. Feel free to [contact me](mailto:zwu380@gatech.edu) if you would like to discuss research ideas or make friends.
     design:
       columns: '1'
   - block: collection
