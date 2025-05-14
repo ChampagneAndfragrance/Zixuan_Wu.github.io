@@ -5,7 +5,7 @@ authors:
 - Sean Charles Ye
 - Byeolyi Han
 - Matthew Gombolay
-date: 2025-05-15
+date: 2023-05-15
 publishDate: '2023-01-01'
 publication: '*7th Annual Conference on Robot Learning*'
 publication_types:
