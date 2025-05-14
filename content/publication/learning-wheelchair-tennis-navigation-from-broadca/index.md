@@ -6,7 +6,7 @@ authors:
 - Zulfiqar Zaidi
 - Adithya Patil
 - Qingyu Xiao
-- Matthew Gombolay
+- Matthew Gombolay († Indicates Equal Contribution)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'

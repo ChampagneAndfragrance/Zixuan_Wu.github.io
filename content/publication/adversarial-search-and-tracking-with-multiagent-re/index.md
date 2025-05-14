@@ -7,7 +7,7 @@ authors:
 - Manisha Natarajan
 - Letian Chen
 - Rohan Paleja
-- Matthew C Gombolay († Equal Contribution)
+- Matthew C Gombolay († Indicates Equal Contribution)
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'

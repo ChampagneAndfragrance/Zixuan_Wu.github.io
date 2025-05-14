@@ -5,7 +5,7 @@ authors:
 - Shiyu Feng
 - admin
 - Yipu Zhao
-- Patricio A Vela
+- Patricio A Vela († Indicates Equal Contribution)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
