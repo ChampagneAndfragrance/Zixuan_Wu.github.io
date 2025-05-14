@@ -13,9 +13,19 @@
 
   <span class="author">
     {{- if $author_page }}
-      <a href="{{ $author_page.RelPermalink }}">{{ $author_page.Title }}</a>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- $name := $author_page.Title -}}
+      {{- $link := $author_page.RelPermalink -}}
+      {{- if eq $author "admin" }}
+        <strong><a href="{{ $link }}">{{ $name }}</a></strong>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- else }}
+        <a href="{{ $link }}">{{ $name }}</a>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- end }}
     {{- else }}
-      {{ $author }}{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- if eq $author "admin" }}
+        <strong>{{ $author }}</strong>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- else }}
+        {{ $author }}{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- end }}
     {{- end }}
   </span>
-{{- end -}}
+{{- end }}
