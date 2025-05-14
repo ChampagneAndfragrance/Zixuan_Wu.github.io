@@ -38,4 +38,5 @@ tags:
   - Visual Navigation, Visual Servo, Mobile Robot
 # Display this page in the Featured widget?
 featured: true
+url_video: 'https://youtu.be/BkNcFxnYUeA'
 ---
