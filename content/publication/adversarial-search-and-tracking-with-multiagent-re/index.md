@@ -2,7 +2,7 @@
 title: Adversarial search and tracking with multiagent reinforcement learning in sparsely
   observable environment
 authors:
-- Zixuan Wu
+- admin
 - Sean Ye
 - Manisha Natarajan
 - Letian Chen
