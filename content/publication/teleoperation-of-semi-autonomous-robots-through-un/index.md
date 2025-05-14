@@ -23,4 +23,12 @@ abstract: Robot navigation tasks are usually decomposed into sequential sub-task
   protocol that helps to build a human-in-loop system. In this paper, we design a
   set of interactive Robot Operating System (ROS) based teleoperation windows for
   the operators to supervise the robot’s navigation through uncertain …
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 ---

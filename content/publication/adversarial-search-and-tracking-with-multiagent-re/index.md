@@ -1,13 +1,13 @@
 ---
 title: Adversarial search and tracking with multiagent reinforcement learning in sparsely
-  observable environment († Equal Contribution)
+  observable environment 
 authors:
 - admin
 - Sean Ye
 - Manisha Natarajan
 - Letian Chen
 - Rohan Paleja
-- Matthew C Gombolay
+- Matthew C Gombolay († Equal Contribution)
 date: 2023-05-15
 publishDate: '2023-01-01'
 publication_types:
@@ -23,7 +23,7 @@ abstract: We study a search and tracking (S&T) problem where a team of dynamic s
   (MARL) framework that leverages the estimated adversary location from our learnable
   filtering model. We show that our MARL architecture can outperform all baselines
   and achieves a 46% increase in detection rate.
-  
+
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'

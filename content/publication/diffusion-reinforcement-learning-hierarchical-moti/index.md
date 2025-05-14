@@ -24,4 +24,13 @@ abstract: Reinforcement Learning- (RL-)based motion planning has recently shown 
   Our approach outperforms baselines by 51.2% by leveraging the diffusion model to
   guide the RL algorithm for more efficient exploration and improves the explanability
   and predictability.
+  
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 ---

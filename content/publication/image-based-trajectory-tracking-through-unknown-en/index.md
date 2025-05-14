@@ -21,4 +21,12 @@ abstract: This article describes a stereo image-based visual servoing (VS) syste
   for navigating unknown areas without absolute positioning. Empirically, TS has better
   trajectory tracking performance than pose-based feedback when both rely on the same
   underlying SLAM system.
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 ---

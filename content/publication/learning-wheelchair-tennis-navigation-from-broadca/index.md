@@ -25,4 +25,12 @@ abstract: In this paper, we propose a novel and generalizable zero-shot knowledg
   in reaching real-world recorded tennis ball trajectories with a physical robot wheelchair,
   and achieve a success rate of 68.49% in a real-world, real-time experiment on a
   full-sized tennis court.
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 ---

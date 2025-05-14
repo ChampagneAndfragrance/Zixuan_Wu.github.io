@@ -33,4 +33,12 @@ abstract: 'Advances in robot learning have enabled robots to generate skills for
   and real table tennis. In simulated air hockey, we achieved a 25.4% increase in
   block rate, while in table tennis, we saw a 17.3% increase in success rate compared
   to imitation learning baselines.'
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 ---
