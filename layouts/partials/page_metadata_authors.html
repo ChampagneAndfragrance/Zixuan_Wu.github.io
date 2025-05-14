@@ -1,51 +1,31 @@
 {{- $authors := .Params.authors -}}
 {{- $notes := .Params.author_notes -}}
 
-{{/* === Author list with (Year) === */}}
-<div class="publication-header">
-  {{- range $i, $author := $authors -}}
-    {{- if gt $i 0 }}, {{ end -}}
+{{- range $i, $author := $authors -}}
+  {{- if gt $i 0 }}, {{ end -}}
 
-    {{- $note := "" -}}
-    {{- if and $notes (lt $i (len $notes)) }}
-      {{ $note = index $notes $i }}
-    {{- end -}}
+  {{- $note := "" -}}
+  {{- if and $notes (lt $i (len $notes)) }}
+    {{ $note = index $notes $i }}
+  {{- end -}}
 
-    {{- $author_page := site.GetPage (printf "authors/%s" $author) -}}
+  {{- $author_page := site.GetPage (printf "authors/%s" $author) -}}
 
-    <span class="author">
-      {{- if $author_page }}
-        {{- $name := $author_page.Title -}}
-        {{- $link := $author_page.RelPermalink -}}
-        {{- if eq $author "admin" }}
-          <strong><a href="{{ $link }}">{{ $name }}</a></strong>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
-        {{- else }}
-          <a href="{{ $link }}">{{ $name }}</a>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
-        {{- end }}
+  <span class="author">
+    {{- if $author_page }}
+      {{- $name := $author_page.Title -}}
+      {{- $link := $author_page.RelPermalink -}}
+      {{- if eq $author "admin" }}
+        <strong><a href="{{ $link }}">{{ $name }}</a></strong>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
       {{- else }}
-        {{- if eq $author "admin" }}
-          <strong>{{ $author }}</strong>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
-        {{- else }}
-          {{ $author }}{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
-        {{- end }}
+        <a href="{{ $link }}">{{ $name }}</a>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
       {{- end }}
-    </span>
-  {{- end }}
-
-</div>
-
-{{/* === Dagger footnote(s) below === */}}
-{{- if $notes }}
-  {{- $nonempty_notes := slice -}}
-  {{- range $notes }}
-    {{- if . }}{{ $nonempty_notes = $nonempty_notes | append . }}{{ end }}
-  {{- end }}
-  {{- $unique_notes := uniq $nonempty_notes -}}
-  {{- if gt (len $unique_notes) 0 }}
-    <div class="author-notes" style="font-size: 0.85em; margin-top: 0.5em;">
-      {{ range $unique_notes }}
-        <div>† {{ . }}</div>
-      {{ end }}
-    </div>
-  {{- end }}
+    {{- else }}
+      {{- if eq $author "admin" }}
+        <strong>{{ $author }}</strong>{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- else }}
+        {{ $author }}{{ if $note }}<sup title="{{ $note }}">†</sup>{{ end }}
+      {{- end }}
+    {{- end }}
+  </span>
 {{- end }}

@@ -1,6 +1,6 @@
 ---
 title: Adversarial search and tracking with multiagent reinforcement learning in sparsely
-  observable environment
+  observable environment († Equal Contribution)
 authors:
 - admin
 - Sean Ye
@@ -23,4 +23,13 @@ abstract: We study a search and tracking (S&T) problem where a team of dynamic s
   (MARL) framework that leverages the estimated adversary location from our learnable
   filtering model. We show that our MARL architecture can outperform all baselines
   and achieves a 46% increase in detection rate.
+  
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 ---

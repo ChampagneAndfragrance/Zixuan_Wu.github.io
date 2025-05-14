@@ -2,8 +2,8 @@
 title: Image-based trajectory tracking through unknown environments without absolute
   positioning
 authors:
-- Shiyu Feng†
-- admin †
+- Shiyu Feng
+- admin
 - Yipu Zhao
 - Patricio A Vela
 date: 2022-05-15
