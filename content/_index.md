@@ -35,12 +35,11 @@ sections:
       title: '🔬 My Research'
       subtitle: ''
       text: |-
-        I'm a Ph.D. candidate at Electrical and Computer Engineering (ECE) in Georgia Institute of Technology (GT). Now I am doing my research about robotics and machine learning in CORE robotics lab supervised by Prof. Matthew Gombolay. The main research topic is to help the robot understand the environments, be aware of their relations to other agents and make decisions accordingly. Now I am using the self-built mobile robot platform Experimental Sport Tennis wHEelchair Robot (ESTHER) to conduct my research.
+        I'm a Ph.D. candidate at Electrical and Computer Engineering (ECE) in Georgia Institute of Technology (GT). Now I am doing my research about robotics and machine learning in CORE robotics lab supervised by Prof. Matthew Gombolay. The main research topic is to help the robot understand the environments, be aware of their relations to other agents and make decisions accordingly. Now I am using the self-built mobile robot platform [Experimental Sport Tennis Wheelchair Robot (ESTHER)](https://core-robotics-lab.github.io/Wheelchair-Tennis-Robot/) to conduct my research.
 
         This website is mainly used to document my research experiences and partially used to show the slices of my life. Feel free to contact me if you would like to discuss research ideas or make friends.
-        
     design:
-      columns: 2
+      columns: '1'
   - block: collection
     id: papers
     content:
