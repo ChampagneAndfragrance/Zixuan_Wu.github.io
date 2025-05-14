@@ -40,7 +40,7 @@ sections:
         This website is mainly used to document my research experiences and partially used to show the slices of my life. Feel free to contact me if you would like to discuss research ideas or make friends.
         
     design:
-      columns: '2'
+      columns: 2
   - block: collection
     id: papers
     content:
