@@ -1,0 +1,24 @@
+---
+title: Image-based trajectory tracking through unknown environments without absolute
+  positioning
+authors:
+- Shiyu Feng*
+- Zixuan Wu*
+- Yipu Zhao
+- Patricio A Vela
+date: -01-01
+publishDate: '2025-05-14T03:19:43.970500Z'
+publication_types:
+- manuscript
+publication: '*IEEE/ASME Transactions on Mechatronics*'
+abstract: This article describes a stereo image-based visual servoing (VS) system
+  for trajectory tracking by a nonholonomic robot without externally derived pose
+  information nor a known visual map of the environment. It is called trajectory servoing
+  (TS). The critical component is a feature-based, indirect simultaneous localization
+  and mapping (SLAM) method to provide a pool of available features with estimated
+  depth, so that they may be propagated forward in time to generate image feature
+  trajectories for VS. Short and long distance experiments show the benefits of TS
+  for navigating unknown areas without absolute positioning. Empirically, TS has better
+  trajectory tracking performance than pose-based feedback when both rely on the same
+  underlying SLAM system.
+---
