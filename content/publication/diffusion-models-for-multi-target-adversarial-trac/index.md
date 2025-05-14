@@ -3,7 +3,7 @@ title: Diffusion models for multi-target adversarial tracking
 authors:
 - Sean Ye
 - Manisha Natarajan
-- Zixuan Wu
+- admin
 - Matthew C Gombolay
 date: 2023-05-15
 publishDate: '2023-01-01'
