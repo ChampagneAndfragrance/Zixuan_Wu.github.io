@@ -34,4 +34,8 @@ url_project: ''
 url_slides: ''
 url_source: 'https://proceedings.mlr.press/v229/wu23a.html'
 url_video: ''
+tags:
+  - Reinforcement Learning, Multi-agent, Communication
+# Display this page in the Featured widget?
+featured: true
 ---
