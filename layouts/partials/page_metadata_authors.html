@@ -32,10 +32,13 @@
 
 {{/* Footnote explanation block */}}
 {{- if $notes }}
-  {{- $nonempty_notes := where $notes "!=" "" -}}
+  {{- $nonempty_notes := slice -}}
+  {{- range $notes }}
+    {{- if . }}{{ $nonempty_notes = $nonempty_notes | append . }}{{ end }}
+  {{- end }}
   {{- $unique_notes := uniq $nonempty_notes -}}
   {{- if gt (len $unique_notes) 0 }}
-    <div class="author_notes" style="font-size: 0.85em; margin-top: 0.5em;">
+    <div class="author-notes" style="font-size: 0.85em; margin-top: 0.5em;">
       {{ range $unique_notes }}
         <div>† {{ . }}</div>
       {{ end }}
