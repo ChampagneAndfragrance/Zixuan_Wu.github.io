@@ -8,6 +8,14 @@ authors:
 - Letian Chen
 - Rohan Paleja
 - Matthew C Gombolay († Equal Contribution)
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - ''
+  - ''
+  - ''
+  - ''
 date: 2023-05-15
 publishDate: '2023-01-01'
 publication_types:

@@ -6,6 +6,11 @@ authors:
 - admin
 - Yipu Zhao
 - Patricio A Vela
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - ''
+  - ''
 date: 2022-05-15
 publishDate: '2022-01-01'
 publication_types:

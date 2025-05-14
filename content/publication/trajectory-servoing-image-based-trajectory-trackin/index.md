@@ -27,4 +27,12 @@ abstract: Navigation systems with real-time needs often employ hierarchical sche
   [2] and further undermine the trajectory tracking. From the limitation of cost,
   cameras that are compatible with small robots are easily be affected by Johnson-Nyquist
   thermal …
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 ---
