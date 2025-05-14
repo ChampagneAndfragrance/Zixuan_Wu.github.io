@@ -6,7 +6,7 @@ authors:
 - admin
 - Rohan Paleja
 - Letian Chen
-- Matthew C Gombolay († Indicates Equal Contribution)
+- Matthew C Gombolay († Equal Contribution)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
