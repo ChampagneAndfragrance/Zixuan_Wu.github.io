@@ -21,12 +21,12 @@ abstract: Target tracking plays a crucial role in real-world scenarios, particul
   adversary locations by leveraging past sparse state information. To assess the effectiveness
   of this approach, we evaluate predictions on single-target and multi-target pursuit
   environments, employing Monte-Carlo sampling of the diffusion model to …
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416775'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://ieeexplore.ieee.org/abstract/document/10416775'
+url_video: ''
 ---

@@ -26,12 +26,12 @@ abstract: Communication is often necessary for robot teams to collaborate and co
   baseline method and also shows favorable results when deployed in real swarm robots.
   Our novel attack methodology within MARL systems contributes to the field by enhancing
   our understanding on the reliability of multi-agent systems.
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://proceedings.mlr.press/v229/wu23a/wu23a.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://proceedings.mlr.press/v229/wu23a.html'
+url_video: ''
 ---

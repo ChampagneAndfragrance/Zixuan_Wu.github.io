@@ -26,12 +26,12 @@ abstract: Optimizing large-scale logistics is computationally challenging due to
   graph neural network and an intrinsic reward scheme to enhance agent coordination
   and mitigate challenges induced by environment non-stationarity. Our results show
   that the combination of effective RAS scheduling and improved …
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10803076'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://ieeexplore.ieee.org/abstract/document/10803076'
+url_video: ''
 ---

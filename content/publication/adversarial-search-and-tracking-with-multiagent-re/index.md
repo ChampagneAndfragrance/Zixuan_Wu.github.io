@@ -32,12 +32,12 @@ abstract: We study a search and tracking (S&T) problem where a team of dynamic s
   filtering model. We show that our MARL architecture can outperform all baselines
   and achieves a 46% increase in detection rate.
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416776'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://ieeexplore.ieee.org/abstract/document/10416776'
+url_video: ''
 ---

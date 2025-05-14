@@ -25,12 +25,12 @@ abstract: Robots in dynamic environments need fast, accurate models of how objec
   leveraging these novel methods, our proposed approach predicts the ball's position
   with an RMSE of 37.2 mm of the paddle radius at the apex after the first bounce,
   and 71.5 mm after the second bounce.
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://arxiv.org/pdf/2409.16467'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://arxiv.org/abs/2409.16467'
+url_video: ''
 ---

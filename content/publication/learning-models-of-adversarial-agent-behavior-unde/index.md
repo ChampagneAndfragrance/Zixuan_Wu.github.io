@@ -31,12 +31,12 @@ abstract: The need for opponent modeling and tracking arises in several real-wor
   adversarial agent, and the adversarial agent must evade detection while achieving
   its own objectives. With the mutual information formulation, GrAMMI outperforms
   all baselines in …
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10341378'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://ieeexplore.ieee.org/abstract/document/10341378'
+url_video: ''
 ---

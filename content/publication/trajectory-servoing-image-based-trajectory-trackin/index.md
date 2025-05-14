@@ -28,11 +28,11 @@ abstract: Navigation systems with real-time needs often employ hierarchical sche
   cameras that are compatible with small robots are easily be affected by Johnson-Nyquist
   thermal …
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 ---
