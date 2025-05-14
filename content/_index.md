@@ -32,16 +32,15 @@ sections:
           parallax: true
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🔬 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a Ph.D. candidate at Electrical and Computer Engineering (ECE) in Georgia Institute of Technology (GT). Now I am doing my research about robotics and machine learning in CORE robotics lab supervised by Prof. Matthew Gombolay. The main research topic is to help the robot understand the environments, be aware of their relations to other agents and make decisions accordingly. Now I am using the self-built mobile robot platform Experimental Sport Tennis wHEelchair Robot (ESTHER) to conduct my research.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        This website is mainly used to document my research experiences and partially used to show the slices of my life. Feel free to contact me if you would like to discuss research ideas or make friends.
         
-        Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
