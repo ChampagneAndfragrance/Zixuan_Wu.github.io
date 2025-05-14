@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'wuzixuan9258@gmail.com'
+    url: 'mailto:wuzixuan9258@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/longislandrock?s=21
