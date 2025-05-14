@@ -1,7 +1,6 @@
 {{- $authors := .Params.authors -}}
 {{- $notes := .Params.author_notes -}}
 
-{{/* === Author list === */}}
 {{- range $i, $author := $authors -}}
   {{- if gt $i 0 }}, {{ end -}}
 
@@ -29,32 +28,4 @@
       {{- end }}
     {{- end }}
   </span>
-{{- end }}
-
-{{/* === Publication details go here === */}}
-<br>
-<span class="publication-details">
-  {{ with .Date }}
-    ({{ .Format "2006" }}).
-  {{ end }}
-  {{ .Title }}.
-  {{ with .Params.publication }}
-    In {{ . }}.
-  {{ end }}
-</span>
-
-{{/* === Footnote block († Equal contribution) === */}}
-{{- if $notes }}
-  {{- $nonempty_notes := slice -}}
-  {{- range $notes }}
-    {{- if . }}{{ $nonempty_notes = $nonempty_notes | append . }}{{ end }}
-  {{- end }}
-  {{- $unique_notes := uniq $nonempty_notes -}}
-  {{- if gt (len $unique_notes) 0 }}
-    <div class="author-notes" style="font-size: 0.85em; margin-top: 1em;">
-      {{ range $unique_notes }}
-        <div>† {{ . }}</div>
-      {{ end }}
-    </div>
-  {{- end }}
 {{- end }}
