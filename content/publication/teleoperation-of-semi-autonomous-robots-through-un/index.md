@@ -5,7 +5,7 @@ authors:
 - Nathanael Koh
 - Nicholas Leone
 - Mohit Singh
-- Zixuan Wu
+- admin
 - Patricio Vela
 date: 2022-05-15
 publishDate: '2022-01-01'

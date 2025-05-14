@@ -1,7 +1,7 @@
 ---
 title: Hijacking Robot Teams Through Adversarial Communication
 authors:
-- Zixuan Wu
+- admin
 - Sean Charles Ye
 - Byeolyi Han
 - Matthew Gombolay

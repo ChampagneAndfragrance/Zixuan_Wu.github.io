@@ -3,7 +3,7 @@ title: Learning models of adversarial agent behavior under partial observability
 authors:
 - Sean Ye*
 - Manisha Natarajan*
-- Zixuan Wu*
+- admin*
 - Rohan Paleja
 - Letian Chen
 - Matthew C Gombolay

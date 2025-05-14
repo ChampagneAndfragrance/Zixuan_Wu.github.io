@@ -3,7 +3,7 @@ title: Learning Dynamics of a Ball with Differentiable Factor Graph and Roto-Tra
   Invariant Representations
 authors:
 - Qingyu Xiao
-- Zixuan Wu
+- admin
 - Matthew Gombolay
 date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.984647Z'

@@ -1,7 +1,7 @@
 ---
 title: 'Trajectory Servoing: Image-Based Trajectory Tracking without Absolute Positioning'
 authors:
-- Zixuan Wu
+- admin
 date: 2021-05-15
 publishDate: '2021-01-01'
 publication_types:

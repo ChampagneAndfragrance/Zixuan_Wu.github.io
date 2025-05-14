@@ -5,7 +5,7 @@ authors:
 - Kin Man Lee
 - Sean Ye
 - Qingyu Xiao
-- Zixuan Wu
+- admin
 - Zulfiqar Zaidi
 - David B D'Ambrosio
 - Pannag R Sanketi

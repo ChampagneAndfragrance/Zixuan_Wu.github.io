@@ -2,7 +2,7 @@
 title: Diffusion-reinforcement learning hierarchical motion planning in adversarial
   multi-agent games
 authors:
-- Zixuan Wu
+- admin
 - Sean Ye
 - Manisha Natarajan
 - Matthew C Gombolay

@@ -5,7 +5,7 @@ authors:
 - Minwoo Cho
 - Letian Chen
 - Rohan Paleja
-- Zixuan Wu
+- admin
 - Sean Ye
 - Esmaeil Seraj
 - David Sidoti

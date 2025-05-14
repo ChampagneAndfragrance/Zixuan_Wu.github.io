@@ -2,7 +2,7 @@
 title: Learning Wheelchair Tennis Navigation from Broadcast Videos with Domain Knowledge
   Transfer and Diffusion Motion Planning
 authors:
-- Zixuan Wu
+- admin
 - Zulfiqar Zaidi
 - Adithya Patil
 - Qingyu Xiao

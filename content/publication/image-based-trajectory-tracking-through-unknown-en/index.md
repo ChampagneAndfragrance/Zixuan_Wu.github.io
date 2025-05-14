@@ -3,7 +3,7 @@ title: Image-based trajectory tracking through unknown environments without abso
   positioning
 authors:
 - Shiyu Feng<sup>†</sup>
-- Zixuan Wu<sup>†</sup>
+- admin$^{†}$
 - Yipu Zhao
 - Patricio A Vela
 date: 2022-05-15
