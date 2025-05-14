@@ -33,5 +33,9 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://ieeexplore.ieee.org/abstract/document/9787773'
-url_video: ''
+url_video: 'https://youtu.be/BkNcFxnYUeA'
+tags:
+  - Visual Navigation, Visual Servo, Mobile Robot
+# Display this page in the Featured widget?
+featured: true
 ---
