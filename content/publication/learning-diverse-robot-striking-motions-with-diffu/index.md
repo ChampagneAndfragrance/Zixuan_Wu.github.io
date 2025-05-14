@@ -14,7 +14,6 @@ date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.977294Z'
 publication_types:
 - manuscript
-publication: '*arXiv preprint arXiv:2409.15528*'
 abstract: 'Advances in robot learning have enabled robots to generate skills for a
   variety of tasks. Yet, robot learning is typically sample inefficient, struggles
   to learn from data sources exhibiting varied behaviors, and does not naturally incorporate

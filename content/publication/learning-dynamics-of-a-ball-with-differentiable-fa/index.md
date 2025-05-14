@@ -9,7 +9,6 @@ date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.984647Z'
 publication_types:
 - manuscript
-publication: '*arXiv preprint arXiv:2409.16467*'
 abstract: Robots in dynamic environments need fast, accurate models of how objects
   move in their environments to support agile planning. In sports such as ping pong,
   analytical models often struggle to accurately predict ball trajectories with spins
