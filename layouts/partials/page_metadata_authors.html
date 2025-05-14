@@ -1,3 +1,5 @@
+{{/* layouts/partials/page_metadata_authors.html */}}
+
 {{- $authors := .Params.authors -}}
 {{- $notes := .Params.author_notes -}}
 
@@ -28,4 +30,16 @@
       {{- end }}
     {{- end }}
   </span>
+{{- end }}
+
+{{/* Footnote explanation block */}}
+{{- if $notes }}
+  {{- $unique_notes := slice | uniq ($notes | where "!=" "") }}
+  {{- if gt (len $unique_notes) 0 }}
+    <div class="author-notes" style="font-size: 0.85em; margin-top: 0.5em;">
+      {{ range $unique_notes }}
+        <div>† {{ . }}</div>
+      {{ end }}
+    </div>
+  {{- end }}
 {{- end }}
