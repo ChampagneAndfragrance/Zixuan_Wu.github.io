@@ -12,7 +12,7 @@ date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.935890Z'
 publication_types:
 - manuscript
-publication: '*IEEE*'
+publication: '*IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)*'
 abstract: We study a search and tracking (S&T) problem where a team of dynamic search
   agents must collaborate to track an adversarial, evasive agent. The heterogeneous
   search team may only have access to a limited number of past adversary trajectories

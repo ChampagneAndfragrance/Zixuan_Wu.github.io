@@ -7,6 +7,7 @@ authors:
 - Matthew Gombolay
 date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.963525Z'
+publication: '*7th Annual Conference on Robot Learning*'
 publication_types:
 - manuscript
 abstract: Communication is often necessary for robot teams to collaborate and complete

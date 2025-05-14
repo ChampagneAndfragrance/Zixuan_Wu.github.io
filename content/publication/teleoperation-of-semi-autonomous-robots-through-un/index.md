@@ -11,7 +11,7 @@ date: 2025-05-15
 publishDate: '2025-05-14T03:19:44.012291Z'
 publication_types:
 - manuscript
-publication: '*IEEE*'
+publication: '*IEEE Opportunity Research Scholars Symposium (ORSS)*'
 abstract: Robot navigation tasks are usually decomposed into sequential sub-tasks,
   thus requiring a hierarchical design of sub-systems governed by multiple decision
   and control loops. In practice, people are the experts in making high-level decisions

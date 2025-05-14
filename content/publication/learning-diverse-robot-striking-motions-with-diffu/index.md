@@ -12,6 +12,7 @@ authors:
 - Matthew Gombolay
 date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.977294Z'
+publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
 publication_types:
 - manuscript
 abstract: 'Advances in robot learning have enabled robots to generate skills for a

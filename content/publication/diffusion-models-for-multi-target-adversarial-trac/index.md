@@ -9,7 +9,7 @@ date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.949798Z'
 publication_types:
 - manuscript
-publication: '*IEEE*'
+publication: '*IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)*'
 abstract: Target tracking plays a crucial role in real-world scenarios, particularly
   in drug-trafficking interdiction, where the knowledge of an adversarial target’s
   location is often limited. Improving autonomous tracking systems will enable unmanned

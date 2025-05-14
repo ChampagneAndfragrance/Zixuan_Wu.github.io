@@ -11,6 +11,7 @@ date: 2025-05-15
 publishDate: '2025-05-14T03:19:44.005299Z'
 publication_types:
 - manuscript
+publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
 abstract: In this paper, we propose a novel and generalizable zero-shot knowledge
   transfer framework that distills expert sports navigation strategies from web videos
   into robotic systems with adversarial constraints and out-of-distribution image

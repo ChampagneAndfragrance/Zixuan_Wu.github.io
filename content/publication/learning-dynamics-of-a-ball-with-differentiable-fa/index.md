@@ -7,6 +7,7 @@ authors:
 - Matthew Gombolay
 date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.984647Z'
+publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
 publication_types:
 - manuscript
 abstract: Robots in dynamic environments need fast, accurate models of how objects

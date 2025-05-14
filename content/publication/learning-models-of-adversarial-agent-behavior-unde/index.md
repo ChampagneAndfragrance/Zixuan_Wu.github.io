@@ -11,7 +11,7 @@ date: 2025-05-15
 publishDate: '2025-05-14T03:19:43.991624Z'
 publication_types:
 - manuscript
-publication: '*IEEE*'
+publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*'
 abstract: The need for opponent modeling and tracking arises in several real-world
   scenarios, such as professional sports, video game design, and drug-trafficking
   interdiction. In this work, we present Graph based Adversarial Modeling with Mutual
