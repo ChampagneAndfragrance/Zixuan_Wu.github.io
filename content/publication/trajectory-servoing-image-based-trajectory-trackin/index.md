@@ -3,7 +3,7 @@ title: 'Trajectory Servoing: Image-Based Trajectory Tracking without Absolute Po
 authors:
 - Zixuan Wu
 date: 2025-05-15
-publishDate: '2025-05-14T03:19:44.019246Z'
+publishDate: '2021-01-01'
 publication_types:
 - manuscript
 abstract: Navigation systems with real-time needs often employ hierarchical schemes

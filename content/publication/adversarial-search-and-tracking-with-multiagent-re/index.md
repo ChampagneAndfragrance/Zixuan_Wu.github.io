@@ -9,7 +9,7 @@ authors:
 - Rohan Paleja
 - Matthew C Gombolay
 date: 2025-05-15
-publishDate: '2023'
+publishDate: '2023-01-01'
 publication_types:
 - manuscript
 publication: '*IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)*'

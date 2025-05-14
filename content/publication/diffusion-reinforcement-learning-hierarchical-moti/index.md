@@ -7,7 +7,7 @@ authors:
 - Manisha Natarajan
 - Matthew C Gombolay
 date: 2025-05-15
-publishDate: '2025-05-14T03:19:43.956593Z'
+publishDate: '2024-01-01'
 publication_types:
 - manuscript
 publication: '*arXiv preprint arXiv:2403.10794*'

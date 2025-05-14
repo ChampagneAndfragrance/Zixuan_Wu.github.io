@@ -11,7 +11,7 @@ authors:
 - David Sidoti
 - Matthew Gombolay
 date: 2025-05-15
-publishDate: '2025-05-14T03:19:43.998472Z'
+publishDate: '2024-01-31'
 publication_types:
 - manuscript
 publication: '*IEEE Robotics and Automation Letters*'

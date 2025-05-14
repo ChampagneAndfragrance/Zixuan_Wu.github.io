@@ -6,7 +6,7 @@ authors:
 - Byeolyi Han
 - Matthew Gombolay
 date: 2025-05-15
-publishDate: '2025-05-14T03:19:43.963525Z'
+publishDate: '2023-01-01'
 publication: '*7th Annual Conference on Robot Learning*'
 publication_types:
 - manuscript

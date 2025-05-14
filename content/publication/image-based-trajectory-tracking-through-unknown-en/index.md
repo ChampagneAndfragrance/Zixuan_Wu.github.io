@@ -7,7 +7,7 @@ authors:
 - Yipu Zhao
 - Patricio A Vela
 date: 2025-05-15
-publishDate: '2025-05-14T03:19:43.970500Z'
+publishDate: '2022-01-01'
 publication_types:
 - manuscript
 publication: '*IEEE/ASME Transactions on Mechatronics*'
