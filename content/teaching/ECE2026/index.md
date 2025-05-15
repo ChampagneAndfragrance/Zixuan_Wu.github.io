@@ -1,5 +1,5 @@
 ---
-title: Head Teaching Assistant –Introduction to Signal Processing (ECE 2026)
+title: Head Teaching Assistant - Introduction to Signal Processing (ECE 2026)
 summary: This course is an introduction to discrete-time signal processing and linear systems. My role as head TA is to coordinate TA tasks with instructors, instruct experiment sessions, grade homework and exams, host office hours, proctor and calculate final grades etc.
 date: 2021-08-15
 type: docs
