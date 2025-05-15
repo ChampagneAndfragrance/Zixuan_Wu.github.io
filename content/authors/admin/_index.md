@@ -19,6 +19,8 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+name: Zixuan Wu
+
 # Role/position/tagline
 role: Ph.D. Candidate
 
