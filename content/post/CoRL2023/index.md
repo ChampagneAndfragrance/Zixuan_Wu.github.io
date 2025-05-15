@@ -1,7 +1,7 @@
 ---
 title: Conference on Robot Learning
 summary: I will have 1 Oral Talk in CoRL 2023. See you in Atlanta!
-date: 2023-11-6
+date: 2023-11-06
 authors:
   - admin
 tags:
