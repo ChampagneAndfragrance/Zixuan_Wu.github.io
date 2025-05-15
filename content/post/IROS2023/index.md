@@ -1,7 +1,7 @@
 ---
 title: IEEE/RSJ International Conference on Intelligent Robots and Systems
 summary: I will help present 1 papers in ICRA 2025. See you in Detroit!
-date: 2023-10-1
+date: 2023-10-01
 authors:
   - admin
 tags:
