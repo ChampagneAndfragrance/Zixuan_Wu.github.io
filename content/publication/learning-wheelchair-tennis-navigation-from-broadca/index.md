@@ -39,4 +39,8 @@ url_project: ''
 url_slides: ''
 url_source: 'https://arxiv.org/abs/2409.19771'
 url_video: ''
+tags:
+  - Imitation Learning, Visual Geometry, Diffusion Model
+# Display this page in the Featured widget?
+featured: true
 ---
