@@ -1,13 +1,12 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Outlet Plug-in with Visual Servoing
+date: 2021-01-01
+external_link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543489
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Visual Servo
+  - Manipulator
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+We attach the socket and a camera on a manipulator to perform the eye-in-hand Image-based Visual Servo to plug it into the outlet. This is the first time I operate the real robot.
 
 <!--more-->

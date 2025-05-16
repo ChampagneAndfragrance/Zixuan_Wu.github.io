@@ -60,5 +60,5 @@ features:
     enable: false
 
 profile:
-  avatar_size: 500  # or 400, depending on what you want
+  avatar_size: 1000  # or 400, depending on what you want
 
