@@ -1,6 +1,6 @@
 ---
 title: Use Image-Based Visual Servoing in mobile robot navigation problems
-date: 202201-19
+date: 2022-01-19
 external_link: https://github.com/ivaROS/TrajectoryServoing
 tags:
   - Visual Navigation
