@@ -1,5 +1,3 @@
-<div style="border: 2px solid red;">OVERRIDE ACTIVE</div>
-
 {{ $avatar := .Params.avatar | default "avatar.jpg" }}
 <img src="{{ printf "/author/admin/%s" $avatar | relURL }}"
      alt="{{ .Params.title }}"
