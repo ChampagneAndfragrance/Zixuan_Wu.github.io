@@ -41,10 +41,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+url_code: 'https://github.com/CORE-Robotics-Lab/Opponent-Modeling'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416776'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
