@@ -58,7 +58,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  page_links: false
 
 profile:
   avatar_size: 1000  # or 400, depending on what you want
+
+
 
