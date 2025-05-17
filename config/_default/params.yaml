@@ -58,7 +58,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  page_links: false
+
+page_links: false
 
 
 profile:
