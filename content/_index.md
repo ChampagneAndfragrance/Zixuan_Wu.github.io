@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Email Me
-        url: mailto:zwu380@gatech.edu
+        text: Download CV
+        url: uploads/Zixuan_Wu_CV_expanded.pdf
     design:
       css_class: dark
       background:
