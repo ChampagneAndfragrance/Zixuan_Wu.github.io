@@ -38,4 +38,7 @@ url_project: ''
 url_slides: ''
 url_source: 'https://arxiv.org/abs/2403.10794'
 url_video: ''
+
+projects: []
+slides: ""
 ---
