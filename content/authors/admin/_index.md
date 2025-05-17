@@ -13,6 +13,11 @@ last_name: Wu
 # status:
 #   icon: ☕️
 
+avatar:
+  filename: uploads/avatar.jpg
+  shape: square  # or circle, as needed
+
+
 # Is this the primary user of the site?
 superuser: true
 
