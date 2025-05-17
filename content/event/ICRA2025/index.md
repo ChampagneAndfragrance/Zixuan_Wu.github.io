@@ -41,10 +41,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+url_code: 'https://github.gatech.edu/MCG-Lab/tennis_gameplay_learning'
+url_pdf: 'https://arxiv.org/pdf/2409.19771'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

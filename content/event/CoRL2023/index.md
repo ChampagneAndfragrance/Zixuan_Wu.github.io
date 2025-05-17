@@ -41,10 +41,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+url_code: 'https://github.com/CORE-Robotics-Lab/HijackingRobotTeams'
+url_pdf: 'https://proceedings.mlr.press/v229/wu23a/wu23a.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
