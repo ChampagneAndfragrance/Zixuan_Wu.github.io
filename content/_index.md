@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Request CV
+        url: mailto:zwu380@gatech.edu
     design:
       css_class: dark
       background:
