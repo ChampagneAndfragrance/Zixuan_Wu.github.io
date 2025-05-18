@@ -7,7 +7,7 @@
 title: Hugo Academic CV Theme
 # Website URL
 publishDir: docs
-baseURL: 'https://Zixuan_Wu.github.io/'
+baseURL: 'https://zixuanwu.github.io/'
 
 ############################
 ## LANGUAGE
